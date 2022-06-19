@@ -1,7 +1,7 @@
 # Computer_Graphics_3D_building_Model_simulation_project
 Graphics_3D_building_Model_simulation_project
 
-      group memebers
+     ** group memebers
       
     1. Haile dereje
     2.ysihak bazezew
@@ -13,7 +13,7 @@ Graphics_3D_building_Model_simulation_project
   - we have used blender throught the design process upto complation
   - we have used pygame to render the obj file from blender
   
-  note: whan it first rendered it shows the object zoomed in by the largest extent. so you can see
-  the whole part by zooming out.
+  note: whan it first rendered it viewer can zoom in and out to see the details of each structure. 
+  
   - you can see the detail by zooming in to the direction you want.
   - you can also rotate to the any direction all using by touchpad.
