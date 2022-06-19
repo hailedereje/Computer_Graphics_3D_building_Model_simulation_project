@@ -22,7 +22,7 @@ glEnable(GL_COLOR_MATERIAL)
 glEnable(GL_DEPTH_TEST)
 glShadeModel(GL_SMOOTH)
 
-obj = OBJ('haile2.obj')
+obj = OBJ('3D_Building_Model.obj')
 
 clock = pygame.time.Clock()
 
